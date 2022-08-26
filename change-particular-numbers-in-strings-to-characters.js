@@ -28,6 +28,6 @@
         }
             return newString.join('')
          
-        }
+    }
         
         console.log(correct("L0ND0N"))
